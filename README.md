@@ -1,4 +1,4 @@
-esse repositorio serve para guardaros arquivo de pensamento computacional 
+
 Meu nome e joao 
 eu gosto de rock 
 e motos
